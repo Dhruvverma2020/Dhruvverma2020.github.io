@@ -24,9 +24,15 @@ const Footer = () => {
         <h4>About Me</h4>
         <p>i am Dhruv Verma, i am a final year computer science engineering student at IIIT Guwahati. I enjoy discussing new projects and design Challenges</p>
             <div className="social">
+            <a href="https://github.com/Dhruvverma2020">
             <FaGithub size={30} style={{color:"#fff",marginRight:"1rem"}}/>
+            </a>
+            <a href="https://twitter.com/dhruv_12_verma">
             <FaTwitter size={30} style={{color:"#fff",marginRight:"1rem"}}/>
+            </a>
+            <a href="https://www.linkedin.com/in/dhruvverma2024/">
             <FaLinkedin size={30} style={{color:"#fff",marginRight:"1rem"}}/>
+            </a>
             </div>
         </div>
       </div>
